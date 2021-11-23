@@ -1,0 +1,20 @@
+{
+  "doctors": [
+    {
+      "fullname": "Григорий Антонович Захарьин",
+      "direction": "therapist"
+    },
+    {
+      "fullname": "Сергей Петрович Боткин",
+      "direction": "therapist"
+    },
+    {
+      "fullname": "Николай Васильевич Склифосовский",
+      "direction": "surgeon"
+    },
+    {
+      "fullname": "Николай Иванович Пирогов",
+      "direction": "surgeon"
+    }
+  ]
+}

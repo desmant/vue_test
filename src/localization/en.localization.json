@@ -1,0 +1,5 @@
+{
+  "navigation.link.case1": "Case #1",
+  "navigation.link.case2": "Case #2",
+  "page.table.intro": "Case #2: A table with doctor's appointments filtered by referral and specialist. An example of working with Vuex, data filtering."
+}
